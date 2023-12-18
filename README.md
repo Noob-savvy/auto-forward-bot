@@ -8,7 +8,7 @@
 * For Public Channels Bot is used to forward.
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Greymattersbot/public-forward-bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Noob-savvy/auto-forward-bot)
 
 ### Variables
 
@@ -24,7 +24,7 @@
 
 ### VPS deploying -
 ``` 
-git clone https://github.com/Mokshb6458/public-forward-bot && cd public-forward-bot
+git clone https://github.com/Noob-savvy/auto-forward-bot && cd auto-forward-bot
 ```
 ```
 apt install python3-pip
@@ -49,7 +49,5 @@ python3 main.py
 ```
 
 ### Credits
-* [DⱥℝkAngel](https://github.com/Jijinr)
-* [Rahul](https://github.com/rahulps1000)
-* [Subinps](https://github.com/subinps)
-* [Mrvishal2k2](https://github.com/Mrvishal2k2) for the temporary fix.
+*✨𝐍𝐎𝐎𝐁_𝐒𝐀𝐕𝐕𝐘✨
+
