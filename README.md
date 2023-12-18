@@ -1,4 +1,4 @@
-# Public-Forward-Bot
+# noob_savvy's Auto-Forward-Bot
 
 # Features 👇
 * Bot to forward messages from one channel to other without admin permission in source channel.
